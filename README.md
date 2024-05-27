@@ -30,7 +30,7 @@ Este é um simples jogo de Par ou Ímpar, onde o jogador escolhe entre par ou í
 
 # Odds and Evens Game
 
-This is the repository for the Par or Impar game, a simple game where you play against the computer by choosing between even and odd numbers. The game is available to play [here](https://par-ou-impar-game.vercel.app).
+The game is available to play [here](https://par-ou-impar-game.vercel.app).
 
 **Note:** Currently experiencing some CSS rendering issues that will be fixed soon.
 

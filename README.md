@@ -1,5 +1,9 @@
 # Jogo de Par ou Ímpar
 
+O jogo está disponível para ser jogado [aqui](https://par-ou-impar-game.vercel.app).
+
+**Nota:** Atualmente com alguns problemas de renderização de CSS que serão corrigidos em breve.
+
 ## Descrição
 Este é um simples jogo de Par ou Ímpar, onde o jogador escolhe entre par ou ímpar e um número de 0 a 10. O computador escolhe um número aleatório e a soma dos números é verificada para determinar o vencedor.
 
@@ -25,6 +29,10 @@ Este é um simples jogo de Par ou Ímpar, onde o jogador escolhe entre par ou í
 ---
 
 # Odds and Evens Game
+
+This is the repository for the Par or Impar game, a simple game where you play against the computer by choosing between even and odd numbers. The game is available to play [here](https://par-ou-impar-game.vercel.app).
+
+**Note:** Currently experiencing some CSS rendering issues that will be fixed soon.
 
 ## Description
 Odds and Evens is a simple game where the player chooses between even or odd and a number from 0 to 10. The computer then chooses a random number and the sum of the player's number and the computer's number is calculated. If the sum is even and the player chose "EVEN", or if the sum is odd and the player chose "ODD", the player wins. Otherwise, the computer wins.
